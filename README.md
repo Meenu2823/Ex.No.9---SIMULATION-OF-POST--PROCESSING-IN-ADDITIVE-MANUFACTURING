@@ -51,8 +51,8 @@
 ## Output:
 ![WhatsApp Image 2023-12-16 at 15 38 12_35d2b36e](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/57f60dfd-e04f-4311-ae94-2be7fce184bb)
 
-### Name:Meenu.S
-### Register Number:212223230124
+### Name: Meenu.S
+### Register Number: 212223230124
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
