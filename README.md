@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 16.12.23
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2023-12-16 153326](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/0724b187-b8a0-4723-af96-250c6d8c9c24)
+![Screenshot 2023-12-16 152731](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/a21ce6d3-3e8d-45db-a3b8-284c9c88714e)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2023-12-16 152821](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/0b2ea85d-a472-49ab-bf1d-93a5062c0075)
+![Screenshot 2023-12-16 153002](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/549650c6-45ae-482e-bd6b-6c5c5e087539)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2023-12-16 153119](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/7866738b-bdf0-418f-8640-de516dc844c7)
+![Screenshot 2023-12-16 153150](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/0a569523-d50a-4078-9205-4d49e53de530)
+
 
 ## Output:
+![WhatsApp Image 2023-12-16 at 15 38 12_35d2b36e](https://github.com/Meenu2823/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139416219/57f60dfd-e04f-4311-ae94-2be7fce184bb)
 
-### Name:
-### Register Number:
+### Name:Meenu.S
+### Register Number:212223230124
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
